@@ -1,6 +1,6 @@
 ---
 # Sprawy ogólne
-my_lpar_name: "commonXX" # Hostname i nazwa LPARu. Zamień 00 na numer Twojego użytkownika
+my_lpar_name: "common04" # Hostname i nazwa LPARu. Zamień 00 na numer Twojego użytkownika
 my_hdisk: "hdiskX" # Nazwa mojego LUNu tak jak go widzą VIOSy. Uwaga, w rożnych viosach mogą być różne nazwy!
 my_power: "S824-6013" # system_name zarządzanego przez HMC pudła
 # Sprawy storydżowe
